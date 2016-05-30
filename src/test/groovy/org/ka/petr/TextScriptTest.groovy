@@ -1,5 +1,7 @@
 package org.ka.petr
 
+import org.ka.petr.runner.SimpleScriptRunner
+import org.ka.petr.source.TextBasedScriptSource
 import spock.lang.Specification
 
 class TextScriptTest extends Specification {
