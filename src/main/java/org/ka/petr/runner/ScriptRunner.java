@@ -1,4 +1,6 @@
-package org.ka.petr;
+package org.ka.petr.runner;
+
+import org.ka.petr.source.ScriptSource;
 
 import java.util.Map;
 

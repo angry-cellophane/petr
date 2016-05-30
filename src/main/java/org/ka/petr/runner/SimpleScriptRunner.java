@@ -1,7 +1,8 @@
-package org.ka.petr;
+package org.ka.petr.runner;
 
 import groovy.lang.Binding;
 import groovy.lang.Script;
+import org.ka.petr.source.ScriptSource;
 
 import java.util.Collections;
 import java.util.Map;

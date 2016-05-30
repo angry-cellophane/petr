@@ -1,4 +1,4 @@
-package org.ka.petr;
+package org.ka.petr.source;
 
 import groovy.lang.Script;
 
